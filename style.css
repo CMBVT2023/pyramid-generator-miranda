@@ -10,6 +10,14 @@ html, body {
     justify-content: space-evenly;
 }
 
+#watermark {
+    position: absolute;
+    bottom: 1%;
+    right: 1%;
+    font-size: 12px;
+    text-align: end;
+}
+
 #pyramid-display {
     min-height: 25%;
     max-height: 35%;
